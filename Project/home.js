@@ -45,7 +45,7 @@ function eventHandler() {
     
  var emp= Math.floor(Math.random()*10);
   console.log("Math "+emp);  
-   display.innerText=arr[5];
+   display.innerText=arr[emp];
    var loopExit=setInterval(
       function() {
           
