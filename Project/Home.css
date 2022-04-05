@@ -18,6 +18,18 @@ background-color: aliceblue;
 
 }
 
+#menu1,#menu3{
+  height: 160px;
+  text-align: center;
+  font-weight: bolder;
+ 
+
+}
+#menu2{
+  height: 160px;
+  text-align: center;
+  grid-template-rows: auto auto;
+}
 
 #container{
     
